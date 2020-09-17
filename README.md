@@ -4,10 +4,10 @@ In this project, you will demonstrate proficiency by writing unit tests and prod
 
 Some of the topics covered were:
 
-- introduction to automated testing.
-- using `Jest` as a test runner.
-- writing unit tests for JavaScript functions.
-- the _Test Driven Development (TDD)_ workflow.
+x- introduction to automated testing.
+x- using `Jest` as a test runner.
+x- writing unit tests for JavaScript functions.
+x- the _Test Driven Development (TDD)_ workflow.
 
 ## Instructions
 
